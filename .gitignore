@@ -1,0 +1,22 @@
+# venv
+venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# env files
+.env
+
+# data
+data/
+
+# models
+models/
+
+# vscode
+.vscode/
+
+# mac/windows
+.DS_Store
+Thumbs.db
